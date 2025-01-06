@@ -42,4 +42,10 @@ cd netflix-clone
 3. Open index.html in your web browser to view the project.
 
 
+## Project Screenshot
+
+![Netflix Clone Screenshot](assets/images/screenshot.png)
+
+
+
 

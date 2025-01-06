@@ -42,4 +42,4 @@ cd netflix-clone
 3. Open index.html in your web browser to view the project.
 
 
-Make sure the [screenshot.png](http://_vscodecontentref_/8) file is actually present in the [images](http://_vscodecontentref_/9) directory and the path in the [README.md](http://_vscodecontentref_/10) file matches the location of the image file.
+
